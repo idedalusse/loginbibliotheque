@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:text="bibliothque marguerite de bourgeoys"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp" />
+
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="45dp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:text="coordonnes"
+        android:layout_marginLeft="10dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginStart="10dp"
+        android:textColor="#000000"
+        android:text="vous pouvez nous contacter sur le 514_515_5555"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="45dp"
+        android:layout_marginStart="10dp"
+        android:text="horaire regulier"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginStart="10dp"
+        android:textColor="#000000"
+        android:text="du lundi au samedi de 8h_18h sauf le dimanche et les jours ferier"
+        android:layout_marginLeft="10dp" />
+
+</LinearLayout>
